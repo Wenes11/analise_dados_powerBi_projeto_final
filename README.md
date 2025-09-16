@@ -148,4 +148,4 @@ Com os dados tratados e modelados, a fase final foi a construção do relatório
 
 ## 3. Visualização do Dashboard Final
 
-![Dashboard Final]())
+![Dashboard Final](dashboardsfinal.png))
